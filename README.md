@@ -8,9 +8,9 @@ Role: System design, cable sizing, protection selection and documentation.
 - Included single-line diagram, cable sizing and protection device selection.
 
 # What's in the repository
--'Solar panel installation design report.pdf' - full design report.
+- 'Solar panel installation design report.pdf' - full design report.
 - AutoCAD design circuit. jpg - Single Line Diagram.
-Solar PV installation design and report with calculations and wiring diagrams .
+- Solar PV installation design and report with calculations and wiring diagrams .
 
 # Key results
 - 24V system
